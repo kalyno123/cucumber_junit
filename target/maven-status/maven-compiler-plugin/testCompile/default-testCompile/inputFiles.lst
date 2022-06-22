@@ -1,0 +1,15 @@
+/Users/ngo/IdeaProjects/cucumber/src/test/java/pages/HeroAppPage.java
+/Users/ngo/IdeaProjects/cucumber/src/test/java/utils/AlertHandler.java
+/Users/ngo/IdeaProjects/cucumber/src/test/java/pages/WikipediaPage.java
+/Users/ngo/IdeaProjects/cucumber/src/test/java/utils/ConfigReader.java
+/Users/ngo/IdeaProjects/cucumber/src/test/java/pages/GoogleSearchPage.java
+/Users/ngo/IdeaProjects/cucumber/src/test/java/runners/Runner.java
+/Users/ngo/IdeaProjects/cucumber/src/test/java/utils/Waiters.java
+/Users/ngo/IdeaProjects/cucumber/src/test/java/steps/BaseSteps.java
+/Users/ngo/IdeaProjects/cucumber/src/test/java/steps/GoogleSteps.java
+/Users/ngo/IdeaProjects/cucumber/src/test/java/steps/HeroAppSteps.java
+/Users/ngo/IdeaProjects/cucumber/src/test/java/steps/WikipediaSteps.java
+/Users/ngo/IdeaProjects/cucumber/src/test/java/utils/Driver.java
+/Users/ngo/IdeaProjects/cucumber/src/test/java/steps/Hooks.java
+/Users/ngo/IdeaProjects/cucumber/src/test/java/utils/ActionsUtil.java
+/Users/ngo/IdeaProjects/cucumber/src/test/java/utils/DropDownHandler.java
