@@ -1,4 +1,5 @@
 /Users/ngo/IdeaProjects/cucumber/src/test/java/pages/HeroAppPage.java
+/Users/ngo/IdeaProjects/cucumber/src/test/java/pages/EtsyHomePage.java
 /Users/ngo/IdeaProjects/cucumber/src/test/java/utils/AlertHandler.java
 /Users/ngo/IdeaProjects/cucumber/src/test/java/pages/WikipediaPage.java
 /Users/ngo/IdeaProjects/cucumber/src/test/java/utils/ConfigReader.java
@@ -8,6 +9,7 @@
 /Users/ngo/IdeaProjects/cucumber/src/test/java/steps/BaseSteps.java
 /Users/ngo/IdeaProjects/cucumber/src/test/java/steps/GoogleSteps.java
 /Users/ngo/IdeaProjects/cucumber/src/test/java/steps/HeroAppSteps.java
+/Users/ngo/IdeaProjects/cucumber/src/test/java/steps/EtsySteps.java
 /Users/ngo/IdeaProjects/cucumber/src/test/java/steps/WikipediaSteps.java
 /Users/ngo/IdeaProjects/cucumber/src/test/java/utils/Driver.java
 /Users/ngo/IdeaProjects/cucumber/src/test/java/steps/Hooks.java

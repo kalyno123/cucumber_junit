@@ -1,4 +1,4 @@
-@Regression @HeroApp
+@Smoke
 Feature: HeroApp Functionalities
 
   Background:
